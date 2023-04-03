@@ -1,0 +1,22 @@
+{
+  "name": "mongoosecliexample",
+  "version": "1.0.0",
+  "description": "Example of use of Mongoose with a local MongoDB server using NodeJS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azarateo/mongooseCLIExample.git"
+  },
+  "author": "azarateo@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azarateo/mongooseCLIExample/issues"
+  },
+  "homepage": "https://github.com/azarateo/mongooseCLIExample#readme",
+  "dependencies": {
+    "mongoose": "^7.0.3"
+  }
+}
